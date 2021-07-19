@@ -10,8 +10,8 @@
 ***What is in an email***
 
 An email is very much like the snail mail that you send in a paper envelop. The difference is that all the parts are 
-digitially encoded and appened to each other so that the email can be securely sent to recepient with all its parts
-intact. 
+digitially encoded and appened to each other in the MIME format so that the email can be securely sent to recepient 
+with all its parts intact. You can read about MIME atg https://docs.oracle.com/cd/E19957-01/816-6028-10/asd3j.htm
 
 
 
